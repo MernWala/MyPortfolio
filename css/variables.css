@@ -1,0 +1,33 @@
+/* Color Variables */
+:root{
+    --navcolor : rgba(0,0,0,.9);
+    --activelink : #F6FF35;
+    --brandcolor : rgba(0,0,0,.9);
+    --firstcolor : #0e2431;
+    --secondcolor : #6a59d1;
+    --secondcolorhover : #5e4dbd;
+    --thirdcolor : #777;
+    --formInput: rgba(106, 89, 209, 0.1);
+}
+
+/* Shadow Variables */
+:root{
+    --skillCardShadow: 1px 1px 10px rgba(0, 0, 0, .3);
+    --wrkExpCardShadow: 1px 1px 10px rgba(0, 0, 0, 0.35);
+    --formInputFocus: 1px 1px 10px rgba(0, 0, 0, 0.25);
+}
+
+/* FontSize Variables */
+:root{
+    --small-font-size : 1.4rem;
+    --normalfontsize : 1.5rem;
+    --brandsize : 2.1rem;
+    --cardFontSize : 1.2rem;
+}
+
+
+/* Border Radius */
+:root{
+    --cardBorderRadius : 1rem;
+    --cardBorderRadiusCloser : .8rem;
+}

@@ -1,0 +1,18 @@
+.part2-portfolio-closer ul li:nth-child(1):hover #portfolio-overlay-1,
+.part2-portfolio-closer ul li:nth-child(2):hover #portfolio-overlay-2,
+.part2-portfolio-closer ul li:nth-child(3):hover #portfolio-overlay-3,
+.part2-portfolio-closer ul li:nth-child(4):hover #portfolio-overlay-4,
+.part2-portfolio-closer ul li:nth-child(5):hover #portfolio-overlay-5,
+.part2-portfolio-closer ul li:nth-child(6):hover #portfolio-overlay-6{
+    opacity: 1;
+}
+
+.part2-portfolio-closer ul li:nth-child(1):hover .portfolio-hover-content,
+.part2-portfolio-closer ul li:nth-child(2):hover .portfolio-hover-content,
+.part2-portfolio-closer ul li:nth-child(3):hover .portfolio-hover-content,
+.part2-portfolio-closer ul li:nth-child(4):hover .portfolio-hover-content,
+.part2-portfolio-closer ul li:nth-child(5):hover .portfolio-hover-content,
+.part2-portfolio-closer ul li:nth-child(6):hover .portfolio-hover-content{
+    animation: portfolioContentSpan .5s linear;
+}
+

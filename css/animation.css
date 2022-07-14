@@ -1,0 +1,21 @@
+@keyframes portfolioContentSpan {
+    0%{
+        padding: 83% 0rem 0rem 5%;
+        opacity: .2;
+    }
+    100%{
+        padding: 80% 0rem 0rem 5%;
+        opacity: 1;
+    }
+}
+
+@keyframes portfolioContentSpanReverse {
+    0%{
+        padding: 80% 0rem 0rem 5%;
+        opacity: 1;
+    }
+    100%{
+        padding: 83% 0rem 0rem 5%;
+        opacity: 0;
+    }
+}
